@@ -14,3 +14,12 @@ NB: Need to find Markdown for DAX and M, Python and R
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+#### Can create a task list
+A task list starts with the syntax "- [] "
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
